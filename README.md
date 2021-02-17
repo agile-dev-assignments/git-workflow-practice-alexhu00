@@ -18,7 +18,3 @@ Article Link: https://driving.ca/volkswagen/auto-news/news/volkswagen-taps-micro
 - The deal with Microsoft will also allow Volkswagen to deploy new software updates to their cars more easily
 - This means that Volkswagen cars that hit the road today will have access to future capabilities that are added over time which could bring them closer to being autonomous vehicles
 - I think this is great news for Volkswagen as it makes them more competitive with Telsa who is known for their "Over-The-Air" software updates. Cool!!
-
-# Comment by Joshua Lin
-
-I really enjoyed reading this article!
